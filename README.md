@@ -1,6 +1,6 @@
 # Code Refactor Starter Code
 
-In this Module 1 Challenge, I was assigned to read a user story and an acceptance criteria. I had to make changes to the supplied code to meet the changes listed in the acceptance criteria. This lesson is designed to teach me about semantic HTML, CSS, and how the stylesheet interacts with the linked .html sheet. 
+In this Module 1 Challenge, I was assigned to read a user story and an acceptance criteria. I had to make changes to the supplied code to meet the changes listed in the acceptance criteria. This lesson is designed to teach me about search engine optimization,semantic HTML, CSS, and how the stylesheet interacts with the linked .html sheet. 
 
 ## Acceptance Criteria
 
