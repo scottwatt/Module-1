@@ -41,3 +41,13 @@ THEN I find a concise, descriptive title
 *Adds comments to show changes and describe CSS
 
 *Adds alt attribute to images
+
+## Deployed Site
+
+The deployed site hosted by GitHub.
+
+https://scottwatt.github.io/Module-1/
+
+## Screenshot
+
+![screenshot](/assets/images/screenshotHoriseon.jpg)
